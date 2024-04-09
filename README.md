@@ -1,2 +1,1 @@
-# codecademy_sql
-Projects in SQL from Codecademy
+project_1.sqlite = creating & manipulating a table  
